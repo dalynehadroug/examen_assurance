@@ -5,3 +5,5 @@ C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_ass
 C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.csproj.CoreCompileInputs.cache
 C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.exe
 C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.pdb
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.Form1.resources
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.csproj.GenerateResource.cache
