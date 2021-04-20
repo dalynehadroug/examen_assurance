@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\bin\Debug\examen_assurance.exe.config
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\bin\Debug\examen_assurance.exe
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\bin\Debug\examen_assurance.pdb
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.exe
+C:\Users\MSI\source\repos\examen_assurance\examen_assurance\obj\Debug\examen_assurance.pdb
