@@ -26,5 +26,15 @@ namespace examen_assurance
         {
             textBox1.Text = richTextBox1.Text;
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
