@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,9 +23,22 @@ namespace examen_assurance
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+       
+
+        private void button_add_Click(object sender, EventArgs e)
         {
-            textBox1.Text = richTextBox1.Text;
+
+        }
+        private void btnAjouter_Click(object sender, EventArgs e)
+        {
+            Form2 Add = new Form2();
+            Add.ShowDialog();
+            update_form();
+        }
+
+        private void update_form()
+        {
+            throw new NotImplementedException();
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
